@@ -2,13 +2,13 @@
 # Horiseon-Website
 
 ## Description
-Restructuring codebase to follow accessiblity standards.
 
+Digital marketing agency web wanted to refactor an existing site to increase accessiblity.
 
 
 ## Screenshot
 
-
+<img title="screenshot" src="challenge 1 screenshot.png">
 
 
 ## Link to Deployed Application
