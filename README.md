@@ -1,6 +1,7 @@
 
 # Horiseon-Website
 
+## Description
 Restructuring codebase to follow accessiblity standards.
 
 
@@ -12,4 +13,5 @@ Restructuring codebase to follow accessiblity standards.
 
 ## Link to Deployed Application
 
+https://chris23rocha.github.io/Horiseon-Website/
 
