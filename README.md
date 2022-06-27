@@ -3,7 +3,7 @@
 
 ## Description
 
-Digital marketing agency web wanted to refactor an existing site to increase accessiblity.
+Digital marketing agency wanted to refactor an existing site to increase web accessiblity.
 
 
 ## Screenshot
