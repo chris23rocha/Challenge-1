@@ -8,7 +8,7 @@ Digital marketing agency wanted to refactor an existing site to increase web acc
 
 ## Screenshot
 
-<img title="screenshot" src="challenge 1 screenshot.png">
+<img title="screenshot" src="assets/images/Horiseon-Website screenshot.png">
 
 
 ## Link to Deployed Application
